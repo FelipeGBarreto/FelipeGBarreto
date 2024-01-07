@@ -8,6 +8,7 @@ Passionate Data/IT professional with 4+ years of experience in data analysis for
 - ⚡ Fun fact: Love Jiu-jitsu
 
 Tools and Technologies
+---
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
@@ -16,7 +17,7 @@ Tools and Technologies
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" src="https://pt.wikipedia.org/wiki/Databricks#/media/Ficheiro:Databricks_Logo.png" width="40" height="40"/>
+<img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" width="40" height="40"/>
 <img loading="lazy" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oCe0QLvt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rqehp7jecwh1cp67vg8e.png" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" width="40" height="40"/>
