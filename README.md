@@ -11,7 +11,7 @@ Tools and Technologies
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" src="https://www.dataside.com.br/dataside-community/big-data/pyspark-o-que-e-vantagens-e-usos" width="40" height="40"/>
+<img loading="lazy" src="https://d25j9w72xt9yi4.cloudfront.net/eyJidWNrZXQiOiJkb2Nrc2hpcC1pbWFnZXMiLCJrZXkiOiJlY2ZkNjg3OGEyY2RlMTU2ZDM0NDJiNTUxZDA4NjE4YSIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbCwicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwid2lkdGgiOjE0NDB9fX0=" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"/>
@@ -20,7 +20,7 @@ Tools and Technologies
 <img loading="lazy" src="https://res.cloudinary.com/practicaldev/image/fetch/s--oCe0QLvt--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/rqehp7jecwh1cp67vg8e.png" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" width="40" height="40"/>
-<img loading="lazy" src="https://logos-world.net/tableau-logo/" width="40" height="40"/>
+<img loading="lazy" src="https://www.bairesdev.com/wp-content/uploads/2021/07/tableau.svg" width="40" height="40"/>
 
 
 
