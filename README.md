@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Felipe!
 
-Passionate Data/IT professional with 4+ years of experience in data analysis for digital products, specializing in data pipeline and working with data applied to business. Proficient in data science, reports & dashboards, data visualization, big data, and business intelligence focused on decision making. Skilled in using a wide variety of tools.
+Passionate Data/IT professional with 4+ years of experience in data analysis and analytical engineering for digital products, specializing in data pipeline and working with data applied to business. Proficient in data science, reports & dashboards, data visualization, big data, and business intelligence focused on decision making. Skilled in using a wide variety of tools.
 
 - 🔭 I’m currently working on PicPay
 - 📫 How to reach me: https://www.linkedin.com/in/felipe-barreto-76503a97/
